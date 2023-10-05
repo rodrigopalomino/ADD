@@ -1,0 +1,16 @@
+.izquierda {
+  height: 100vh;
+  width: 12vw;
+  background: red;
+  position: fixed;
+}
+
+.izquierda span {
+  display: block;
+  border: 1px solid white;
+}
+
+.derecha {
+  margin-left: 12vw;
+  width: 88vw;
+}

@@ -1,0 +1,16 @@
+.aca {
+  display: flex;
+  /* border: 1px solid blue; */
+}
+
+.izquierda {
+  /* background: green; */
+  /* border: 1px solid blue; */
+  width: 80%;
+}
+
+.derecha {
+  /* background: blue; */
+  border: 1px solid black;
+  width: 20%;
+}
